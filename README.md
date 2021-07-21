@@ -1,3 +1,10 @@
+# Clone of mweiss/elm-rte-toolkit to work around Elm 0.19.1 restriction.
+
+This is a published clone of mweiss/elm-rte-toolkit to work around Elm 0.19.1 restriction in its elm.json.
+This version will build on Elm 0.19.0.
+
+Prefer the original where possible.
+
 # Rich Text Editor Toolkit
 Create rich text editors in Elm.
 
