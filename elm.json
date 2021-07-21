@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "rupertlssmith/elm-rte-toolkit",
+    "name": "rupertlssmith/rte-toolkit-patch",
     "summary": "Build rich text editors in Elm",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
